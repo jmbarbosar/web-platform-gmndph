@@ -31,7 +31,7 @@ body {
 }
 
 .container .contenido h1 {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .container .contenido p {
@@ -44,7 +44,7 @@ body {
   justify-content: center;
   position: absolute;
   left: 0%;
-  top: 85%;
+  top: 92%;
   width: 100%;
 }
 
